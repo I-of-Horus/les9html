@@ -9,7 +9,7 @@ U gaat een website maken over een toeristische attractie in uw omgeving (of een 
 Maak in de editor een nieuwe hoofdmap aan.
 Maak in de hoofdmap enkele submappen aan voor video’s, afbeeldingen en geluiden.
 Maak drie HTML-bestanden aan: index.html, galerij.html en info.html. Zorg dat alle bestanden voldoen aan de volledige HTML5-documentstructuur, ook wanneer u niet ieder element gaat gebruiken.
-Plaats een logo in de header. Heeft uw attractie geen logo? Maak er dan zelf een door een afbeelding (200x100 pixels) te plaatsen met een <h1>-tekst erbij.
+Plaats een logo in de header. Heeft uw attractie geen logo? Maak er dan zelf een door een afbeelding (200x100 pixels) te plaatsen met een /< h1 />-tekst erbij.
 Plaats onder het logo een simpel menu (bestaande uit koppelingen naar de drie pagina’s).
 Vul de pagina ‘index.html’ op de volgende manier:
 
